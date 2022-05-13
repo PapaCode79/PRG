@@ -14,6 +14,26 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+![badge](https://img.shields.io/badge/license-${data.license}-green)
+![badge](https://img.shields.io/github/last-commit/${data.userName}/${data.Repo})
+![badge](https://img.shields.io/github/issues/${data.userName}/${data.Repo})
+## description
+${data.description}
+
+## installation 
+${data.installation}
+
+## contribution
+${data.contribution}
+
+## inplimatation
+${data.inplimatation}
+
+## functionality
+${data.functionality}
+
+## issues
+${data.issues}
 `;
 }
 
