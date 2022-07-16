@@ -20,16 +20,16 @@ function generateMarkdown(data) {
 ## description
 ${data.description}
 
-## installation 
+## installation for data
 ${data.installation}
 
-## contribution
+## data contribution
 ${data.contribution}
 
-## inplimatation
+## data inplimatation
 ${data.inplimatation}
 
-## functionality
+## data functionality
 ${data.functionality}
 
 ## issues
