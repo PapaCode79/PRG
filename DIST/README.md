@@ -1,36 +1,22 @@
-# mvksm
+# PRG
 
 ![badge](https://img.shields.io/badge/license-MIT-green)
-![badge](https://img.shields.io/github/last-commit/PapaCode79/Weather_dashboard)
-![badge](https://img.shields.io/github/issues/PapaCode79/Weather_dashboard)
-## Table of Contents
-
-[Description](#description)
-
-[Instalation](#installation)
-
-[Contribution](#contribution)
-
-[Inplimatation](#inplimatation)
-
-[Functionality](#functionality)
-
-[Issues](#issues)
-
+![badge](https://img.shields.io/github/last-commit/Badara/github)
+![badge](https://img.shields.io/github/issues/Badara/github)
 ## description
-mpm
+professional read me generator
 
-## installation 
-mropeg
+## installation for data
+index.js
 
-## contribution
-pmp
+## data contribution
+package.jspm, app.js index.js
 
-## inplimatation
-mpbmsl
+## data inplimatation
+working professioals
 
-## functionality
-ov,
+## data functionality
+PRG
 
 ## issues
-mfvp
+when there is issusd 
